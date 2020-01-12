@@ -1,0 +1,9 @@
+com/project/spring/service/BookServiceImpl.class
+com/project/spring/service/BookService.class
+com/project/spring/controller/BookController.class
+com/project/spring/dao/BookDAO.class
+com/project/spring/config/AppConfig.class
+com/project/spring/dao/BookDAOImpl.class
+com/project/spring/model/Book.class
+com/project/spring/config/WebConfig.class
+com/project/spring/config/MyWebAppInitializer.class
